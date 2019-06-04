@@ -7,7 +7,7 @@ Day 1:
 - Introduction
 - [Basic Python](https://github.com/snazrul1/DU_ML_2019/blob/master/Python_Basics.ipynb)
 - [Titanic Dataset](https://github.com/snazrul1/DU_ML_2019/blob/master/Titanic.ipynb)
-- Handwriting Recognition Dataset
+- [Handwriting Recognition Dataset](https://github.com/snazrul1/DU_ML_2019/blob/master/Handwriting_Recognition.ipynb)
 
 Day 2:
 - Theoretical Concepts
