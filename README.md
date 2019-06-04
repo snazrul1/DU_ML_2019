@@ -5,7 +5,7 @@ Expectations:
 
 Day 1:
 - Introduction
-- Basic Python
+- [Basic Python](https://github.com/snazrul1/DU_ML_2019/blob/master/Python_Basics.ipynb)
 - Titanic Dataset
 
 Day 2:
