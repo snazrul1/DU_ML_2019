@@ -6,7 +6,7 @@ Expectations:
 Day 1:
 - Introduction
 - [Basic Python](https://github.com/snazrul1/DU_ML_2019/blob/master/Python_Basics.ipynb)
-- Titanic Dataset
+- [Titanic Dataset](https://github.com/snazrul1/DU_ML_2019/blob/master/Titanic.ipynb)
 - Handwriting Recognition Dataset
 
 Day 2:
