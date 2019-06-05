@@ -15,8 +15,7 @@ Day 2:
 
 Day 3:
 - Review and finishing theory
-- Sabermetrics [DATA ANALYTICS PRACTICAL]
-- Titanic [MACHINE LEARNING PRACTICAL]
+- [Practice Problems](https://github.com/snazrul1/DU_ML_2019/blob/master/Practice_Problems.ipynb)
 
 Day 4:
-- PRACTICAL
+- [Practice Problems](https://github.com/snazrul1/DU_ML_2019/blob/master/Practice_Problems.ipynb)
